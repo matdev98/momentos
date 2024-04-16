@@ -6,7 +6,7 @@
     "photo": "https://www.clarin.com/img/2022/05/16/frj_brFCh_1200x0__1.jpg",
     "texto": null,
     "descripcion": "La 8va maravilla del mundo",
-    "tipoPublicacion": 1
+    "tipoPublicacion": 1,
     "likes": {
       "cantidad": 2,
       "personas": [
@@ -17,23 +17,6 @@
         {
           "username": "matsirerolcapo",
           "datetime": "2024-01-24T12:03:00"
-        }
-      ]
-    },
-    "comentarios": {
-      "cantidad": 2,
-      "coments": [
-        {
-          "username": "bakatora",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://i.pinimg.com/736x/16/cd/33/16cd33a6454bd5050483e5d0803f30f5.jpg",
-          "comentario": "Helado?"
-        },
-        {
-          "username": "matsirerolcapo",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1xQA3VHgl58/v1/-1x-1.jpg",
-          "comentario": "Capo"
         }
       ]
     }
@@ -45,7 +28,7 @@
     "photo": null,
     "texto": "Solo somos mis 30 pesos y yo contra abril",
     "descripcion": "En el pais de los campeones del mundo! Argentina!",
-    "tipoPublicacion": 2
+    "tipoPublicacion": 2,
     "likes": {
       "cantidad": 2,
       "personas": [
@@ -56,23 +39,6 @@
         {
           "username": "matsirerolcapo",
           "datetime": "2024-01-24T12:03:00"
-        }
-      ]
-    },
-    "comentarios": {
-      "cantidad": 2,
-      "coments": [
-        {
-          "username": "bakatora",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://i.pinimg.com/736x/16/cd/33/16cd33a6454bd5050483e5d0803f30f5.jpg",
-          "comentario": "Helado?"
-        },
-        {
-          "username": "matsirerolcapo",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1xQA3VHgl58/v1/-1x-1.jpg",
-          "comentario": "Capo"
         }
       ]
     }
@@ -96,23 +62,6 @@
           "datetime": "2024-01-24T12:03:00"
         }
       ]
-    },
-    "comentarios": {
-      "cantidad": 2,
-      "coments": [
-        {
-          "username": "bakatora",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://i.pinimg.com/736x/16/cd/33/16cd33a6454bd5050483e5d0803f30f5.jpg",
-          "comentario": "Helado?"
-        },
-        {
-          "username": "matsirerolcapo",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1xQA3VHgl58/v1/-1x-1.jpg",
-          "comentario": "Capo"
-        }
-      ]
     }
   },
   {
@@ -132,23 +81,6 @@
         {
           "username": "matsirerolcapo",
           "datetime": "2024-01-24T12:03:00"
-        }
-      ]
-    },
-    "comentarios": {
-      "cantidad": 2,
-      "coments": [
-        {
-          "username": "bakatora",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://i.pinimg.com/736x/16/cd/33/16cd33a6454bd5050483e5d0803f30f5.jpg",
-          "comentario": "Helado?"
-        },
-        {
-          "username": "matsirerolcapo",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1xQA3VHgl58/v1/-1x-1.jpg",
-          "comentario": "Capo"
         }
       ]
     }
