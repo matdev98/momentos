@@ -3,8 +3,49 @@
     "username": "sofi415",
     "datetime": "2024-01-24T12:00:00",
     "userPhoto": "https://www.okchicas.com/wp-content/uploads/2018/01/Poses-para-una-buena-foto-de-perfil-4-1.jpg",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ObeliscoBA2015.2.jpg/800px-ObeliscoBA2015.2.jpg",
+    "photo": "https://www.clarin.com/img/2022/05/16/frj_brFCh_1200x0__1.jpg",
+    "texto": null,
+    "descripcion": "La 8va maravilla del mundo",
+    "tipoPublicacion": 1
+    "likes": {
+      "cantidad": 2,
+      "personas": [
+        {
+          "username": "bakatora",
+          "datetime": "2024-01-24T12:01:00"
+        },
+        {
+          "username": "matsirerolcapo",
+          "datetime": "2024-01-24T12:03:00"
+        }
+      ]
+    },
+    "comentarios": {
+      "cantidad": 2,
+      "coments": [
+        {
+          "username": "bakatora",
+          "datetime": "2024-01-24T12:40:00",
+          "photo": "https://i.pinimg.com/736x/16/cd/33/16cd33a6454bd5050483e5d0803f30f5.jpg",
+          "comentario": "Helado?"
+        },
+        {
+          "username": "matsirerolcapo",
+          "datetime": "2024-01-24T12:40:00",
+          "photo": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1xQA3VHgl58/v1/-1x-1.jpg",
+          "comentario": "Capo"
+        }
+      ]
+    }
+  },
+  {
+    "username": "sofi415",
+    "datetime": "2024-01-24T12:00:00",
+    "userPhoto": "https://www.okchicas.com/wp-content/uploads/2018/01/Poses-para-una-buena-foto-de-perfil-4-1.jpg",
+    "photo": null,
+    "texto": "Solo somos mis 30 pesos y yo contra abril",
     "descripcion": "En el pais de los campeones del mundo! Argentina!",
+    "tipoPublicacion": 2
     "likes": {
       "cantidad": 2,
       "personas": [
@@ -41,6 +82,7 @@
     "datetime": "2024-01-24T12:00:00",
     "userPhoto": "https://www.okchicas.com/wp-content/uploads/2018/01/Poses-para-una-buena-foto-de-perfil-4-1.jpg",
     "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ObeliscoBA2015.2.jpg/800px-ObeliscoBA2015.2.jpg",
+    "texto": null,
     "descripcion": "En el pais de los campeones del mundo! Argentina!",
     "likes": {
       "cantidad": 2,
@@ -77,45 +119,9 @@
     "username": "sofi415",
     "datetime": "2024-01-24T12:00:00",
     "userPhoto": "https://www.okchicas.com/wp-content/uploads/2018/01/Poses-para-una-buena-foto-de-perfil-4-1.jpg",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ObeliscoBA2015.2.jpg/800px-ObeliscoBA2015.2.jpg",
-    "descripcion": "En el pais de los campeones del mundo! Argentina!",
-    "likes": {
-      "cantidad": 2,
-      "personas": [
-        {
-          "username": "bakatora",
-          "datetime": "2024-01-24T12:01:00"
-        },
-        {
-          "username": "matsirerolcapo",
-          "datetime": "2024-01-24T12:03:00"
-        }
-      ]
-    },
-    "comentarios": {
-      "cantidad": 2,
-      "coments": [
-        {
-          "username": "bakatora",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://i.pinimg.com/736x/16/cd/33/16cd33a6454bd5050483e5d0803f30f5.jpg",
-          "comentario": "Helado?"
-        },
-        {
-          "username": "matsirerolcapo",
-          "datetime": "2024-01-24T12:40:00",
-          "photo": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1xQA3VHgl58/v1/-1x-1.jpg",
-          "comentario": "Capo"
-        }
-      ]
-    }
-  },
-  {
-    "username": "sofi415",
-    "datetime": "2024-01-24T12:00:00",
-    "userPhoto": "https://www.okchicas.com/wp-content/uploads/2018/01/Poses-para-una-buena-foto-de-perfil-4-1.jpg",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ObeliscoBA2015.2.jpg/800px-ObeliscoBA2015.2.jpg",
-    "descripcion": "En el pais de los campeones del mundo! Argentina!",
+    "photo": "https://media.viajando.travel/p/1584dfa0acf942cd47818e1d6f66486d/adjuntos/236/imagenes/000/555/0000555057/1200x0/smart/bariloche-tiene-muchisimos-rios-disfrutar-verano.jpg",
+    "texto": null,
+    "descripcion": "Bariloche ✈️",
     "likes": {
       "cantidad": 2,
       "personas": [
